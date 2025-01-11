@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>INICIO</nombre>
+        <link>inicio.html</link>
+    </item>
+    <item>
+        <nombre>PARCIPA EN LA ENCUESTA</nombre>
+        <link>pracipaenlaencuesta.html</link>
+    </item>
+    <item>
+        <nombre>RESULTADOS PERSONALES</nombre>
+        <link>resultadospersonales.html</link>
+    </item>
+    <item>
+        <nombre>ESTADISTICAS GENERALES</nombre>
+        <link>estadisticasgenerales.html</link>
+    </item>
+    <item>
+        <nombre>RECOMENDACION</nombre>
+        <link>recomendacion.html</link>
+    </item>
+    <item>
+        <nombre>RECURSOS</nombre>
+        <link>recursos.html</link>
+    </item><item>
+        <nombre>FAQ</nombre>
+        <link>faq.html</link>
+    </item>
+</menu>
